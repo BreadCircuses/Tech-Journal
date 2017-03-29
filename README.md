@@ -1,41 +1,42 @@
 # Tech-Journal
-Observations on learning to program
 
-Wednesday, March 28th, 2017
+## Observations on learning to program
+
+*Wednesday, March 28th, 2017*
 
 Should one learn Hadoop first to be able to learn Spark?
 
 “For developers, there is almost no overlap between the two. Hadoop is a framework in which you write MapReduce job by inheriting Java classes. Spark is a library that enables parallel computation via function calls.”
 http://aptuz.com/blog/is-apache-spark-going-to-replace-hadoop/
 
-Tuesday, March 27th, 2017
+*Tuesday, March 27th, 2017*
 
 Should remember: 
 
 all() means all the values iterated over are non-False;
 any() means any (any number) are non-False
 
-Tuesday, March 21st, 2017
+*Tuesday, March 21st, 2017*
 
 Working on Superficial Robot. Keep adding weather check, color check, shape check, etc. Started doing yoga every morning - everything hurts.
 
-Monday, March 20th, 2017
+*Monday, March 20th, 2017*
 
 Downloaded half a dozen different connectors, but none of them work; most tell to download some other version of Python. 
 
 Decided to export the database into a csv file instead and parse it. It works.
 
-Saturday, March 18th, 2017
+*Saturday, March 18th, 2017*
 
 From documentation for Python-SQL connector: 
 
 “Python scripts often build up and tear down large data structures in memory, up to the limits of available RAM. Because MySQL often deals with data sets that are many times larger than available memory, techniques that optimize storage space and disk I/O are especially important. For example, in MySQL tables, you typically use numeric IDs rather than string-based dictionary keys, so that the key values are compact and have a predictable length” (good to know)
 
-Monday, March 13th, 2017
+*Monday, March 13th, 2017*
 
 Saw %d and %s in someone’s SQL code. Thought they mean “anything ending with an “s” or ending with a “d” but it didn’t make sense in that context. Turns out, these are type specifiers; %d is used for integer values, %s - for string values. %% is used for percent values. 
 
-Monday, February 27th, 2017
+*Monday, February 27th, 2017*
 
 Re.Bayesian methods:
 
@@ -45,11 +46,11 @@ From Quora:
 https://www.quora.com/What-are-the-advantages-of-Bayesian-methods-over-frequentist-methods-in-web-data
 
 
-Monday, February 20th, 2017
+*Monday, February 20th, 2017*
 
 Continuing with Tableau.
 
-Friday, February 17th, 2017
+*Friday, February 17th, 2017*
 
 To connect MySQL to Tableau:
 
@@ -62,7 +63,7 @@ Note: “dimensions” and “measures”
 Columns: Color family + measure values
 Rows: Color + measure values
 
-Thursday, February 16th, 2017
+*Thursday, February 16th, 2017*
 
 Disabled the safe mode in MySQL Workbench to mass update without using the key:
 
@@ -72,7 +73,7 @@ Requires reconnecting to the server:
 
 Query - Reconnect to Server
 
-Tuesday, February 14th, 2017
+*Tuesday, February 14th, 2017*
 
 To iterate in a list of lists
 use a variable that is a list itself!
@@ -85,9 +86,9 @@ for row in five_elements:
     # crime_rate is a string, the crime rate of the city
     crime_rates.append(crime_rate)
 
-Fascinating.
+This is fascinating, kind of!
 
-Monday, February 13th, 2017
+*Monday, February 13th, 2017*
 
 Nice quote from Quora re. Data scientists: they “serve as the ambassador between the data and the company.”
 
@@ -97,7 +98,7 @@ https://www.quora.com/How-do-data-scientists-use-statistics
 Started following William Chen’s Storytelling with Statistics feed:
 https://datastories.quora.com/
 
-Wednesday, February 8, 2017
+*Wednesday, February 8, 2017*
 
 Steps of a data science project, from
 https://www.dataquest.io/blog/data-science-portfolio-project/
@@ -125,7 +126,7 @@ More research to better understand the correlations
 Write a story
 “With data science, the story is never truly finished. By releasing analysis to others, you enable them to extend and shape your analysis in whatever direction interests them”
 
-Wednesday, January 25, 2017
+*Wednesday, January 25, 2017*
 
 Reading on differences between regular (frequentist) statistics vs Bayesian. 
 
@@ -137,11 +138,11 @@ Re. bandit problem, from Wikipedia:
 
 “Originally considered by Allied scientists in World War II, it proved so intractable that, according to Peter Whittle, the problem was proposed to be dropped over Germany so that German scientists could also waste their time on it.”
 
-Sunday, January 15, 2017
+*Sunday, January 15, 2017*
 
 New idea for an Android game. The game is based heavily on dialogue and may be called Introvert vs. Small Talk. The player encounters friendly characters who talk nonstop. As long as the player stays engaged with the characters, he loses energy. 
 
-Monday, February 9, 2017
+*Monday, February 9, 2017*
 
 Just after I learned the game loop and collision detection turned out tetris is one of the most copyrighted games in existence. 
 
@@ -149,7 +150,7 @@ Just after I learned the game loop and collision detection turned out tetris is 
 
 The Tetris Foundation (the copyright owner) sends copyright infringement notices to Apple store and Google Play store forcing them to remove dozens of tetris-like games every year.
 
-Tuesday, December 20th, 2016
+*Tuesday, December 20th, 2016*
 
 Re. simple tetris game:
 
@@ -167,7 +168,7 @@ tetromino.topLeft = {row: 0, col:4};
 
 
 
-Thursday, December 15th, 2016
+*Thursday, December 15th, 2016*
 
 Want to know in advance what data structures I’ll be learning soon. Reading a (relatively) brief overview of most common ones. 
 
@@ -183,30 +184,30 @@ Stack: elements can be pushed (=added) to the end of it or popped (=removed), al
 
 Queues: elements are added at the end and removed from the front. The element that spent in the queue the longest will be the first to be removed. Interesting.
 
-Wednesday, December 14th, 2016
+*Wednesday, December 14th, 2016*
 
 Enrolling in Algorithms & Data Structures and Android Programming for the next semester. But can’t wait the whole month and enrolled in a Princeton algorithms course on Coursera. 
 
 Someone on Quora advises to learn data structures first, and then algorithms. They 
 also say that more complex data structures are not necessarily harder to understand.
 
-Sunday, December 11th, 2016
+*Sunday, December 11th, 2016*
 
 Preparing for the Java final exam. 
 Selection sort: easy to write but is the least efficient; has a complexity of n2. 
 Binary search. Exception handling.
 
-Saturday, December 10th, 2016
+*Saturday, December 10th, 2016*
 
 Begin to understand the game loop better. It is needed to make the passage of time in the game consistent. It makes the speed of the game consistent across devices that themselves have different speed. Updates are aware of how much time the loop took. If the loop finished early, waits instead of overworking the graphics card. 
 
-Friday, December 9th, 2016
+*Friday, December 9th, 2016*
 
 A menu always overlaps the app bar rather than serving as an extension. 
 
 Want to create an app with a really really bad design (to make it easy to grasp what bad design is and avoid it). The app should include: elaborate icons (all of different sizes), minimal padding, 15 different fonts, system bar in the middle of everything, 60 options to choose from (font size ranging from 300 dp to 2 dp), menus everywhere, and most importantly, Kafkaesque infinite loop-like navigation (inspired by AT&T and Kaiser Permanente).
 
-Thursday, December 8th, 2016
+*Thursday, December 8th, 2016*
 
 The SurfaceView punches a hole in its window to allow its surface to be displayed - don’t understand why it works this way yet.
 
@@ -214,7 +215,7 @@ And then there’s a method
 setZOrderOnTop(boolean onTop)
 which controls whether the surface view's surface is placed on top of its window.
 
-Wednesday, December 7th, 2016
+*Wednesday, December 7th, 2016*
 
 Most games use a game loop. Should it be in the main thread or in a separate thread? 
 From Stack Overflow: can use the loop in main if the game is very simple.
@@ -223,19 +224,19 @@ Although, “the reason people often recommend using a separate thread is becaus
 
 Now I remember having separate classes for logic and GUI in a simple rock-paper-scissors game I wrote recently.
 
-Monday, December 5th, 2016
+*Monday, December 5th, 2016*
 
 The greatest contemporary physicist according to a lay person (myself included) is Stephen Hawking because his name is the first/the only one that comes to mind. Theoretical physicists consider Edward Witten to be the best; Witten is the only physicist who received the Fields Medal. 
 
 Before becoming a physicist Witten received a BA in history and worked as a journalist for a couple years.
 
-People with a background in humanities pursuing computer science, meet our role model! We can make it!
+People with a background in humanities pursuing computer science, he should be our role model! 
 
-Sunday, December 4th, 2016
+*Sunday, December 4th, 2016*
 
 From Material Design, Typography: Dynamic type enables large type when the length of the text in a layout is unknown (wow, didn’t know that).
 
-Saturday, December 3rd, 2016
+*Saturday, December 3rd, 2016*
 
 Continuing w/Material Design Manual: turned out to be larger than I expected. Many of my vague intuitions are confirmed, yet many more things are unexpected and fascinating. 
 
@@ -245,7 +246,7 @@ Use opacity instead of grey (they didn’t say why but I guess it’s because ha
 
 A gradient over an image to make the text on top more readable is called a scrim.
 
-Thursday, December 1nd, 2016
+*Thursday, December 1nd, 2016*
 
 Reading Google material design manual. 
 
@@ -255,15 +256,15 @@ When the button is pressed, its elevation increases (counterintuitive, is real l
 
 Materials move along curved lines (arches) because it looks more natural to a human eye (the speed of a falling object doesn’t increase evenly either). This is great to know - would have taken me a long time to realize myself that the movement along an arch looks better.
 
-Wednesday, November 30th, 2016
+*Wednesday, November 30th, 2016*
 
 dp stands for density independent pixel, will occupy the same amount of space independent of screen’s resolution.
 
-Tuesday, November 29th, 2016
+*Tuesday, November 29th, 2016*
 
 Continuing w/Android. Started Udacity Android course. Learned views (TextView, ButtonView, ImageView), XML basic syntax. A self-closing tag is used when a class doesn’t have any child classes.
 
-Friday, November 25th, 2016
+*Friday, November 25th, 2016*
 
 A synthetic class is generated by the compiler at runtime. Wow….
 
@@ -276,24 +277,22 @@ Taking the length of null as if it were an array.
 Accessing or modifying the slots of null as if it were an array.
 Throwing null as if it were a Throwable value.
 
-Thursday, November 24th, 2016
+*Thursday, November 24th, 2016*
 
 Ordered enough food to continue with writing Rock, Paper, Scissors. Procrastinate by reading Introduction to Algorithms.
 
 “Contrary to what one might expect, incorrect algorithms can sometimes be useful, if their error rate can be controlled.”
 
-Wednesday, November 23rd, 2016
+*Wednesday, November 23rd, 2016*
 
 Afternoon: polymorphism.
 
 Evening: Continuing with Rock, Paper, Scissors game (Java homework). Learned that Java doesn’t work directly with svg images but there are many online converters from svg to png or jpg. Converting an svg image of paper to a png file produces a suprematist work of art:
 
 
-
-
 Wish I knew why this happens but there is no time.
 
-Tuesday, November 22nd, 2016
+*Tuesday, November 22nd, 2016*
 
 From The Anatomy of Interest: Women in Undergraduate Computer Science study:
 
@@ -301,11 +300,11 @@ QUOTE “[M]en tend to exaggerate their achievements more than women, and (...) 
 
 QUOTE “[O]ur research identifies a "chicken and egg" problem that affects a female student as she thinks about her interest in computer science: is difficulty with course work due to lack of experience? or is lack of experience due to lack of interest? or is lack of interest due to lack of confidence? or is lack of confidence due to lack of interest? It is hard to disentangle one influence from the other, to know how they interact. Women’s interest (or lack of interest) may not be as "intrinsic" as it feels, for interest is continuously encouraged or extinguished, and defined, by cultural norms, external factors and internal responses. Far from being a static, immutable given, a combination of gender socialization, cultural artifacts of the field (a male-dominated history, culture, educational practices, peer interactions), and individual psychology all construct and/or undermine many women students’ sense of their own "intrinsic interest." END QUOTE 
 
-Monday, November 21st, 2016
+*Monday, November 21st, 2016*
 
 Java: inheritance. Multiple inheritance is not supported in Java. I thought multiple inheritance meant classes having grandchildren, but no - it means having more than one parent which is legit in some languages but not Java.
 
-Sunday, November 20th, 2016
+*Sunday, November 20th, 2016*
 
 Difference between bin and src folders:
 
@@ -315,11 +314,11 @@ Difference between bin and src folders:
 
 A Jar file is an Zip archive containing one or more java class files; JAR = Java ARchive.
 
-Saturday, November 19th, 2016
+*Saturday, November 19th, 2016*
 
 Set up Android Studio and LibJDX.
 
-Friday, November 18th, 2016
+*Friday, November 18th, 2016*
 
 Homework 7: making simple GUIs in Java (dialog boxes, radio buttons, text fields, countdowns).
 
@@ -329,7 +328,7 @@ When the user chooses item1 and item3 with 2-day shipping my mystery store repor
 
 Fixed it eventually.
 
-Thursday, November 17th, 2016
+*Thursday, November 17th, 2016*
 
 Obsidian color scheme for Eclipse:
 http://eclipse-color-theme.github.io/update/
@@ -337,13 +336,13 @@ Help - Install new software - Add - Paste the link
 Then:
 Window - Preferences - General - Appearance - Color Scheme - Obsidian
 
-Wednesday, November 16th, 2016
+*Wednesday, November 16th, 2016*
 
 Re. DRM: “Ubisoft broke with the tendency to use online DRM in late 2008, with the release of Prince of Persia as an experiment to "see how truthful people really are" regarding the claim that DRM was inciting people to use illegal copies. Although Ubisoft has not commented on the results of the "experiment", Tweakguides noted that two torrents on Mininova had over 23,000 people downloading the game within 24 hours of its release.”
 
 “Croteam, the company that released Serious Sam 3: BFE in November 2011, implemented a different form of DRM wherein, instead of displaying error messages that stop the illicit version of the game from running, it causes a special invincible foe in the game to appear and constantly attack the player until he or she is killed.”
 
-Tuesday, November 15th, 2016
+*Tuesday, November 15th, 2016*
 
 DRM, DMCA and EULAs.
 
@@ -353,7 +352,7 @@ DMCA = Digital Millennium Copyright Act.
 
 EULA = End User Licence Agreement, between software’s author or publisher and the end user.
 
-Wednesday, November 9th, 2016
+*Wednesday, November 9th, 2016*
 
 James Bach on software testing:
 
@@ -364,13 +363,13 @@ Learn everything you can about the product!
 Always seek the underlying complexity behind the apparent simplicity!
 Software testing is rapid learning and solving a new problem each time. 
 
-Tuesday, November 8th, 2016
+*Tuesday, November 8th, 2016*
 
 Yesterday something named a controller was used in the app and I didn’t quite figure what it was. 
 
 Turns out, a controller is a part of an MVC (model-view-controller) design pattern; it accepts input and converts it to commands for the model or view. Editing a document = updates model’s state; scrolling through a document = changes view’s presentation of a model.
 
-Monday, November 7th, 2016
+*Monday, November 7th, 2016*
 
 Watching MEAN Stack tutorial while riding my excercise bike. MEAN stack consists of MongoDB, Express.js, Angular.js and Node.js. 
 
@@ -396,45 +395,45 @@ Anytime someone requests js, we use a helper function
 
 Made a change on the server => need to restart it.
 
-Friday, November 4th, 2016
+*Friday, November 4th, 2016*
 
 Our professor recommends using Graphics2D instead of the older Graphics class in Java despite the newer Graphics2D having more cumbersome syntax.
 
-Thursday, November 3rd, 2016
+*Thursday, November 3rd, 2016*
 
 JFrame and JPanel are containers, JLabel is a component.
 
-Wednesday, November 2nd, 2016
+*Wednesday, November 2nd, 2016*
 
 Continuing with Java GUI: understand the hierarchy, layers, purpose of JFrame, JButton, etc. but the purpose of JLabel is still vague - is it more like a pane or a text field (or area)? 
 
-Monday, October 31st, 2016
+*Monday, October 31st, 2016*
 
 Java GUI.
 
-Saturday, October 29th, 2016
+*Saturday, October 29th, 2016*
 
 Alt+Shift+S makes getters and setters instead of the typing!!
 
-Friday, October 28th, 2016
+*Friday, October 28th, 2016*
 
 Coders Club. Have to figure what machine learning algorithm has ranking prediction.
 
-Wednesday, October 26th, 2016
+*Wednesday, October 26th, 2016*
 
 First time pair programming with someone much more experienced than I am (Craig). Worked on Xiki and it was amazing! Craig said that he threw me into the middle of things and I figured out what’s what faster than others.
 
-The Lyft driver David who graduated from Dev Bootcamp two weeks ago. Asked him how many graduates find a developer job within the first 3 months after graduation. He said: the majority. I asked about the algorithms. He said they had one class on them - then use online tutorials. 
+The Lyft driver David graduated from Dev Bootcamp two weeks ago. Asked him how many graduates find a developer job within the first 3 months after graduation. He said: the majority. I asked about the algorithms. He said they had one class on them - then use online tutorials. 
 
-Tuesday, October 25th, 2016
+*Tuesday, October 25th, 2016*
 
 Turns out one can install Linux on top of Windows! It’s been available for a few months. Installed it too. 
 
-Monday, October 24th, 2016
+*Monday, October 24th, 2016*
 
 More Java homework: constructor and method overloading, enums, this keyword, etc.
 
-Sunday, October 23rd, 2016
+*Sunday, October 23rd, 2016*
 
 Craig Muth on Ziki: 
 QUOTE “Most apps (or at least their main structures) boil down to nested lists of choices.  There should be a (or perhaps many) very simple languages for defining the main navigation of an app (the nested lists of choices).  Xiki is on the path to being such a format.  As it is, you can type a few nested menu items (with 2-space indenting) and use it on the command line, in a text editor, in a web browser, and as a service.
@@ -443,7 +442,7 @@ https://www.kickstarter.com/projects/xiki/xiki-the-command-revolution
 
 Wrote him a message.
 
-Saturday, October 22nd, 2016
+*Saturday, October 22nd, 2016*
 
 Advice from Quora on what makes a good GitHub project:
 Well-documented
@@ -454,25 +453,25 @@ Tests!
 From Reddit:
 “The best projects are the ones who would sound cool to people who have never taken a CS class at all.”
 
-Friday, October 21st, 2016
+*Friday, October 21st, 2016*
 
 Was making a list of things for Lake Tahoe. Tried adding a coat but didn’t know the name of it’s color (a mix of medium brown, orange and red, but muted). Found a nice little app that gives names to the colors the user chooses on the color wheel. Mine’s either “rust” or “burnt sienna.” What a great and useful project:
 http://chir.ag/projects/name-that-color/
 
-Wednesday, October 19th, 2016
+*Wednesday, October 19th, 2016*
 
 The notorious Student+Course+Roster Java assignment - everything almost works except for the array with Student objects inside of a Course class. 
 Found so many others struggling with this on CodeRanch and Stack Overflow. 
 
-Sunday, October 16th, 2016
+*Sunday, October 16th, 2016*
 
 Learned that the QWERTY keyboard was created to slow down typists so as to avoid jamming up the old mechanical typewriters!
 
-Wednesday, October 12th, 2016
+*Wednesday, October 12th, 2016*
 
 Java Midterm. Got 96/100
 
-Sunday, October 2nd, 2016
+*Sunday, October 2nd, 2016
 
 From Linux Command Line:
 
@@ -483,19 +482,19 @@ With ERE, the following metacharacters (and their associated functions) are adde
 ( ) { } ? + | 
 However (and this is the fun part), the “(”, “)”, “{”, and “}” characters are treated as metacharacters in BRE if they are escaped with a backslash, whereas with ERE, preceding any metacharacter with a backslash causes it to be treated as a literal.” END QUOTE
 
-How mean is that?..
+How evil is that?..
 
-Saturday, October 1st, 2016
+*Saturday, October 1st, 2016*
 
 Missed a meeting w/Masha’s brother who was visiting for only a few days because of trying to figure out when to use arrays vs. lists vs. collections.
 
 Am fascinated with the concept of multidimensional arrays. Don’t know yet why use them, assume for some crazy 3D graphics. 
 
-Thursday, September 29th, 2016
+*Thursday, September 29th, 2016*
 
 Regular expressions start to seem less overwhelming, wrote first simple ones (with pipes) that worked.
 
-Wednesday, September 28th, 2016
+*Wednesday, September 28th, 2016*
 
 Missed Java class, missed Women Who Code panel talk - fell asleep and slept from 3pm to 8pm. Saw dreams/nightmares: Java code and riding on the train where my fake leather backpack was stolen by a blonde overweight girl.  I took it back from her which made her angry.
 
@@ -503,77 +502,77 @@ Struggling with Java project1 - creating a bank account. The driver program half
 
 1.5 past the midnight deadline: the code after line 128 is still a bloody mess.
 
-Sunday, September 18th, 2016
+*Sunday, September 18th, 2016*
 
 Unix/Linux permissions: chmod absolute and symbolic; hard and symbolic links. Assignment 2 due tomorrow.
 
-Saturday, September 17th, 2016
+*Saturday, September 17th, 2016*
 
 Linux textbook on symlinks: created some.
 
-Friday, September 16th, 2016
+*Friday, September 16th, 2016*
 
 From Linux Exercise FileUtils3: “Filenames and directory structure are an illusion. They don't really exist. Sorry.”
 
-Thursday, September 15th, 2016
+*Thursday, September 15th, 2016*
 
 Linux: grep, find, etc.
 CS101: compression, Newman algorithm for compression.
 
-Wednesday, September 14th, 2016
+*Wednesday, September 14th, 2016*
 
 Java classes: dog class.
 
-Sunday, September 11th
+*Sunday, September 11th*
 
 From Java homework-2: “leave x alone if x is 0”
 
-Sunday, September 4th, 2016
+*Sunday, September 4th, 2016*
 
 Java conditionals (read the textbook, chapter 5).
 
-Saturday, September 3rd, 2016
+*Saturday, September 3rd, 2016*
 
 Linux: Lab1, part 1
 Exercises: Paths, part 1 (going up to parent directories, then down to display or list files and directories).
 
 Ordered the SQL textbook, started.
 
-Thursday, September 1st, 2016
+*Thursday, September 1st, 2016*
 
 Linux lab 3 - find and permissions. Was slower than some but not lost at all. CS101 - little test (easy). Memory: swapping, thrashing + parity bit.
 
 Quora: why do front-end developers seem less self-confident? Answers: because there are so many variables on the front-end, while in the back-end something either works as intended or not; because front-end developers have control of their tools, while front-end devs can’t change their users’ browser, etc. + less subjective requirements in the front-end overall
 
-Wednesday, August 31st, 2016
+*Wednesday, August 31st, 2016*
 
 Java - control flow, loops. Haven’t read the book on it yet but didn’t feel completely lost - the syntax is not that different (from Python) and the idea is familiar. 
 
-Tuesday, August 30th, 2016
+*Tuesday, August 30th, 2016*
 
 Had to miss Writing Group because of Linux Assignment 1 deadline. Haven’t practiced Linux enough, did only a part of the assignment by the deadline; shh connection to hills was slow and logging me out every few minutes. Realized Learning Linux commands is a lot like learning to play a musical instrument: easy to understand, hard to use because one needs to practice A LOT.
 
-Sunday, August 28th, 2016
+*Sunday, August 28th, 2016*
 
 Doing Java homework till 3 am in the morning. Can write simple programs!
 
-Thursday, August 25th, 2016
+*Thursday, August 25th, 2016*
 
 CS101 turned out to be more interesting than expected: communication between Control Unit, ALU and RAM through set and enable wires, etc.
 
-Wednesday, August 24th, 2016
+*Wednesday, August 24th, 2016*
 
 Went to Coders Club meeting and joined them.
 
-Tuesday, August 23rd, 2016
+*Tuesday, August 23rd, 2016*
 
 Dev Bootcamp’s founder: the hiring manager sees your trajectory (“I didn’t know any of that 9 weeks ago, see where I can be 2 months from now with a little guidance!”).
 
-Weekend: August Friday 19th - Sunday 21st, 2016
+*Weekend: August Friday 19th - Sunday 21st, 2016*
 
 Java Software Solutions - read 120 pages out of 159. Learned a lot!
 
-Thursday, August 18, 2016
+*Thursday, August 18, 2016*
 
 Started reading Linux Command Line, installed shh and sshed to hills - CCSF’s Linux server.
 
