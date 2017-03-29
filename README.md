@@ -576,57 +576,49 @@ Java Software Solutions - read 120 pages out of 159. Learned a lot!
 
 Started reading Linux Command Line, installed shh and sshed to hills - CCSF’s Linux server.
 
-Wednesday, August 17th, 2016
+*Wednesday, August 17th, 2016*
 
 Rented Starting Out with Java: From Control Structures to Objects and Java Software Solutions from Amazon and received free 2-day shipping for half a year as a student.
 
-Tuesday, August 16th, 2016
+*Tuesday, August 16th, 2016*
 
 First Unix/Linux class. Learned many commands but was wondering why it is all needed. 
 Turns out, everything is based on Unix/Linux (Mac OS, Android). Windows is the only other OS (Professor Boyle despises it). Programmers from Quora: backend developers should know/use Unix/Linux. It’s very effective (for what? unclear yet). It is also an integral part of the culture.
 
-Monday, August 15th, 2016
+*Monday, August 15th, 2016*
 
-First Java class. Very fast-paced. Have to read the previous semester’s book. Have to read the upcoming lecture’s slides in advance.
+First Java class. Very fast-paced. Have to read the previous semester’s book.
 
-Sunday, August 14th, 2016
+*Sunday, August 14th, 2016*
 
 TutorialsPoint Java tutorial: classes, identifiers, modifiers
 
-Friday, August 12th, 2016
+*Friday, August 12th, 2016*
 
 Installed Code Pretty plugin for Google Docs.
 
-Thursday, August 11th, 2016
+*Thursday, August 11th, 2016*
 
 Installed Eclipse (Mars).
 JPA = Java Persistence API.
 
 Coders at Work: “Seibel: [T]hese days you’ve got to have a little capacity for saying, “I sort of understand how this works and I’m going to let it go at that until it becomes urgent that I understand it better.” 
 
-Wednesday, August 10th, 2016
+*Wednesday, August 10th, 2016*
 
 Installed Java (JDK - Java Developers Kip and JRE - Java Runtime Environment) 8.
 Ov helped to make a path (advice w/semicolons from the tutorial didn’t work).
 Made a list of Java-A topics from the course syllabus I have to become familiar with.
 
-Tuesday, August 9th, 2016
+*Tuesday, August 9th, 2016*
 
 Meetup re.CCSF. Should take Java B instead of A and an Android classes (also Java). Making phone apps is easier and faster than web apps.
 
-Monday, August 8th, 2016
-
-Math test results: eligible. First day of classes: Monday, Aug 15.
-
-Sunday, August 7th, 2016
+*Sunday, August 7th, 2016*
 
 Registered for CCSF CS classes: Java + Unix/Linux + 2 other ones.
 
-Saturday, August 6th, 2016
-
-Took math placement test. 
-
-Learned about the Tech SF grant, register for orientation on Friday, August 12.
+*Saturday, August 6th, 2016*
 
 Choosing between Java and C++. 
 Differences:
@@ -648,15 +640,11 @@ Java’s standard library is more extensive than C++’s
 Hadoop is Java-based framework used for big data
 Clojure and Scala also run on JVM
 
-Thursday, August 4th, 2016
-
-CCSF - web4, next steps.
-
-Wednesday, August 3rd, 2016
+*Wednesday, August 3rd, 2016*
 
 Applied to City College, CS.
 
-Tuesday, August 2nd, 2016
+*Tuesday, August 2nd, 2016*
 
 App Lab’s (coding w/blocks) tutorial (simple app): Javascript embedded in HTML (if button (button id) is checked, go to page “yes”, else …)
 
@@ -674,37 +662,37 @@ Npm - packages (modules) for JS to build from.
 PS. JavaScript is asynchronous (single threaded), but the request has the thread for as long as it is actively doing something = a timeshare of the single thread between all requests.
 Learned more about multithreading (block, barrel, simultaneous).
 
-Monday, August 1st, 2016
+*Monday, August 1st, 2016*
 
 Found Code.org and App Lab.
 
 Quora (question on programming languages): JavaScript will become a thing of the past because users are switching from desktop to mobile > Python/Django or Ruby/Rails.
 
-Sunday, July 31st, 2016
+*Sunday, July 31st, 2016*
 
 Zawinski: “You’ve got to say in the comment something that’s not there already. What’s it for? Either a higher-level or a lower-level description, depending on what’s most important. Sometimes the most important thing is, what is this for? Why would I use it? And sometimes the most important thing is, what’s the range of inputs that this expects?”
 
 Started L8 - Assertions and Exceptions. 
 
-Saturday, July 30th, 2016
+*Saturday, July 30th, 2016*
 
 Coders at Work. Jamie Zawinski: “[P]ut a window on the screen that has some buttons on it, and then dig down and start building the stuff that those buttons do (...) I find that getting something on the screen as soon as possible really helps focus the problem for me.” 
 
-Friday, July 29th, 2016
+*Friday, July 29th, 2016*
 
 Started reading Coders at Work.
 
-Tuesday, July 26th, 2016
+*Tuesday, July 26th, 2016*
 
 Debugging as binary search: add a print statement in the middle of the code. If the output is not what was expected, add another one in the middle of the first half of the code, etc.
 
-Monday, July 11th, 2016
+*Monday, July 11th, 2016*
 
 Added Postman extension to Chrome (cuts down the time for testing and developing APIs).
 
-Sunday, July 10th, 2016
+*Sunday, July 10th, 2016*
 
-Explained the API request to Mika. 
+Explained the API request to Mika.
 
 Everyone recommends The Gang of Four book (Design Patterns: Elements of Reusable Object-Oriented Software) = recurring solutions to common problems (!!), explains how different things are built!
 Clean Code book - also recommended.
@@ -713,59 +701,55 @@ Coursera Algorithms course - check too.
 
 What do self-taught programmers usually lack (Quora): vocabulary (read some introduction to programming book), algorithms, design & architecture, data structures (which ones to choose), understanding of the big picture (focus on end result instead), understanding of different programming paradigms (OO, functional, reactive), and humility. 
 
-Wednesday, July 6th, 2016
+*Wednesday, July 6th, 2016*
 
 Continued L7 debugging. Debugging as search: narrow down the space of errors, use the print statement throughout the code.
 
-Tuesday, July 5th, 2016
+*Tuesday, July 5th, 2016*
 
 L7: testing and debugging. Black-box: based on specification; glass-box: based on implementation (code). Recursion (recited from Think Like A Computer Scientist, Chapter 18): on nested lists.
 
-Monday, July 4th, 2016
+*Monday, July 4th, 2016*
 
 PSET3 - Radiation problem (find the area of a curved figure). Decreasing the step didn’t make my answers more accurate for some reason. Mine still were +-5% from the correct ones.
 
-Sunday, July 3rd, 2016
+*Sunday, July 3rd, 2016*
 
-Turing: decision problem. On Computable Numbers, with an Application to theEntscheidungsproblem, published in 1936. If a problem can be broken down into simple problems (=algorithm), it is decidable.
+Turing: decision problem. On Computable Numbers, with an Application to the Entscheidungsproblem, published in 1936. If a problem can be broken down into simple problems (=algorithm), it is decidable.
 
-Friday, July 1st, 2016
+*Friday, July 1st, 2016*
 
-GitHub flow: branch, commit, pull up request. Awesome Python - collection of libraries and frameworks. Faker - package generating fake data. 
+GitHub flow: branch, commit, pull request. Awesome Python - collection of libraries and frameworks. Faker - package generating fake data. 
 
-Wednesday, June 29th, 2016
+*Wednesday, June 29th, 2016*
 
 Read Tutorials Point: Classes (instance, inheritance, etc.), modules (import, from, etc.)
 
-Tuesday, June 28th, 2016
+*Tuesday, June 28th, 2016*
 
 Ruby/Rails vs. Javascript/Node.js -> Javascript is more likely to dominate.
 
-Monday, June 27th, 2016
+*Sunday, June 26th, 2016*
 
-API (Application Programming Interface) - lets us use other apps’ data and infrastructure.
+Read about 12 points Joel test for programming workplaces.
 
-Sunday, June 26th, 2016
-
-12 points Joel test for programming workplaces.
-
-Saturday, June 25th, 2016
+*Saturday, June 25th, 2016*
 
 L6: problems 10 and 11. Dictionaries. Map built-in function: applies a list of functions to a list of arguments. dict.keys(), dict.items(), etc.
 
-Saturday, June 18th, 2016
+*Saturday, June 18th, 2016*
 
-Structure and Implementation of Computer Programs: normal-order evaluation (fully expand, hen reduce) vs. applicative-order evaluation (evaluate the arguments, then apply) - re. interpreters. (Lisp?) interpreter uses applicative-order evaluation. Usually, but not always, both types produce the same results.
+Structure and Implementation of Computer Programs: normal-order evaluation (fully expand, then reduce) vs. applicative-order evaluation (evaluate the arguments, then apply) - re. interpreters. (Lisp?) interpreter uses applicative-order evaluation. Usually, but not always, both types produce the same results.
 
 Python: dictionaries (remind of SQL)
 
-Thursday, June 16th, 2016
+*Thursday, June 16th, 2016*
 
 Eli the Computer Guy podcast: Portfolio!
 
 Django connects an SQL database to Python, and more!
 
-Wednesday, June 15th, 2016
+*Wednesday, June 15th, 2016*
 
 is  operator - checks if things are the same objects and have the same place in the memory and the same id. 
 == operator compares the values of the objects.
@@ -786,65 +770,65 @@ NB! In case of assignment, both variables point to the same object, is = True
 
 Operations with lists: append, extend, insert (index, x), remove (x), pop (return and remove), clear (= del), list.sort() vs. sorted(list), reverse, copy
 
-Tuesday, June 14th, 2016
+*Tuesday, June 14th, 2016*
 
 The general form of a procedure definition (in Lisp) is 
 (define (<name> <formal parameters> ) <body> ) 
 
-Sunday, June 12th, 2016
+*Sunday, June 12th, 2016*
 
-Structure and Interpretation of a Computer Program. 
+From Structure and Interpretation of a Computer Program:
 
 “[A] computer language is not just a way of getting a computer to perform operations but rather that it is a novel formal medium for expressing ideas about methodology. Thus, programs must be written for people to read, and only incidentally for machines to execute.”
 
 “[O]ur conviction that ‘‘computer science’’ is not a science and that its significance has little to do with computers. The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called procedural epistemology -- the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects.”
 
-Saturday, June 11th, 2016
+*Saturday, June 11th, 2016*
 
 SQL - pros and cons of splitting an SQL table into multiple tables. “Overly normalized tables” = not necessarily a good thing.
 
-June 1st, 2016
+*June 1st, 2016*
 
 Lists. Range.
 
-Friday, May 20th, 2016
+*Friday, May 20th, 2016*
 
 Degree vs. bootcamps: bootcamps teach practical knowledge, and their graduates are faster at understanding a problem, writing clean code, etc. But lack in algorithms, data structures and understanding of how computers work. YC startups prefer so called “Product Programmers” to “Technical Programmers” and dislike enterprise programmers (Java, C#).
 
-Thursday, May 19th, 2016
+*Thursday, May 19th, 2016*
 
 L6 - lists. Amend, traversal, nested.
 
-Wednesday, May 11th, 2016
+*Wednesday, May 11th, 2016*
 
 L6 - lists, tuples
 
-Saturday, April 23rd, 2016
+*Saturday, April 23rd, 2016*
 
-Fund how to update multiple records - had to disable “safe update.” 
-The amount of different combinations of 176 items divided in 6 categories is over 34 billion. Need to add constraints to reduce this amount. Read about SQL’s IF function. Hasn’t been working yet.
+Found how to update multiple records - had to disable “safe update.” 
+The amount of different combinations of 176 items divided into 6 categories is over 34 billion. Need to add constraints to reduce this amount. Read about SQL’s IF function. Hasn’t been working yet.
 
-Friday, April 22nd, 2016
+*Friday, April 22nd, 2016*
 
 Mika said: make a separate table with the rules in SQL. For the front end have to use Java or Ruby or something else. Mobile apps are harder to write that web apps.
 
-Thursday, April 21st, 2016
+*Thursday, April 21st, 2016*
 
-Bought a domain, 1 year hosting and privacy protection for Shadows in a Red Cave.
+Bought a domain, 1 year hosting for Shadows in a Red Cave.
 
-Monday, April 18th, 2016
+*Monday, April 18th, 2016*
 
 Junior developers: must have a “beginner mind” (humble, looking for learning opportunities everywhere). Have to do a lot of refactoring (rewriting ugly code) and little self-contained tasks. Integrate library code into the codebase. Be excited to be part of a team and enthusiastic about technology. Fix bugs. Work on internal tools. 
 
-Sunday, April 15th, 2016
+*Sunday, April 15th, 2016*
 
 Started L6 (Objects) in Python.
 
-Saturday, April 14th, 2016
+*Saturday, April 14th, 2016*
 
 Forgot the password from MySQL Workbench. 
 
-Thursday, April 14th, 2016
+*Thursday, April 14th, 2016*
 
 Transition to Software Engineering meetup. 
 
@@ -864,43 +848,38 @@ Looking for a job. Apply for positions with experience “2 years and under.” 
 
 Mentors. Sophy used a mentor to teach her how to transition from being an engineer to VP.
 
-Saturday, April 9th, 2016
+*Saturday, April 9th, 2016*
 
 Rows: 157.
 Can make simple queries (like, %, etc.). AND NOT works!
 
-Monday, April 4th, 2016
+*Monday, April 4th, 2016*
 
-Added 2 new columns to article_category. Renamed Category_ID and Category_Name to SubCategory_ID and SubCategory_Name. Have 21 subcategories and 6 categories (tops, bottoms, shoes, etc.)
+Added 2 new columns to article_category. Renamed Category_ID and Category_Name to SubCategory_ID and SubCategory_Name. Have 21 subcategories and 6 categories.
 
-Refreshed queries: order by, limit, 
+Refreshed queries: order by, limit
 
-Saturday, April 2nd, 2016
+*Saturday, April 2nd, 2016*
 
 Row 42 in articles_list is considered a duplicate. Had to delete. Now have row 41 and 43.
 Total number of rows today: 57.
 
-Friday, April 1st, 2016
+*Friday, April 1st, 2016*
 
 Made more tables (Article_Category). Added foreign keys. CASCADE means delete values in the parent table. There is also SET NULL value. Chose CASCADE for now. 
 
 Replaced TINYINT in Pattern with VARCHAR.
 
-Thursday, March 31st, 2016
+*Thursday, March 31st, 2016*
 
 Created first rows of outfit_robot. Edited column names. Found that boolean type in MySQL is TYNYINT(1) - 0 for False, 1 for True.
 
-Have to decide:
-More generalized category names (outerwear, tops, bottoms, etc.) 
-or
-More specific (coats, jackets, vests, short sleeve coats, etc.)
-
-Wednesday, March 30th, 2016
+*Wednesday, March 30th, 2016*
 
 Installed MySQL Workbench (editor). Started making the first database!!
 The recommended maximum amount of foreign keys is 253.
 
-Tuesday, March 29th, 2016
+*Tuesday, March 29th, 2016*
 
 Data Engineering and Hiring meetup.
 
@@ -921,27 +900,27 @@ From Upwork. Python = $55/h, Scala+Spark = $95/h
 
 Installed mySQL. 
 
-Thursday, March 24th, 2016
+*Thursday, March 24th, 2016*
 
-Problem 8: find if a character is in a string using recursion and a bisection search. Very hard. Spent more than 2 hours before looking for an answer.
+Problem 8: find if a character is in a string using recursion and bisection search. Very hard. Spent more than 2 hours before looking for an answer.
 Stack Overflow: found how to sort a string in alphabetical order. Found it wasn’t required in the assignment.
 
 Found an easier course called The Hard Way to Learn Python. Decided to take it when tired, and the MIT one when have high energy.
 
 Ov persuaded to enroll in HTML & CSS & JavaScript course.
 
-Wednesday, March 23rd, 2016
+*Wednesday, March 23rd, 2016*
 
 Rehearsed the SQL workshop.
-L5 problem 6 and 7: iterative and recursive function to determine the length of a string, as if the built in didn’t exist.
+L5 problem 6 and 7: iterative and recursive function to determine the length of a string, as if the built in one didn’t exist.
 
-Tuesday, March 22nd, 2016
+*Tuesday, March 22nd, 2016*
 
-Intro to JavaScript meetup at Galvanize. Nicer location compared to Hack Reactor (scary people there). JavaScript also has functions and many more similarities to Python. People with no programming background were lost. Realized it was a great idea to take a course on introduction to programming, rather than just learn a language.
+Intro to JavaScript meetup at Galvanize. JavaScript also has functions and many more similarities to Python. People with no programming background were lost. Realized it was a great idea to take a course on introduction to programming, rather than just learn a language.
 
 Made mistakes: one was because i misspelled “length,” another one - missed a < in “script.
 
-Sunday, March 20th, 2016
+*Sunday, March 20th, 2016*
 
 Intro to SQL workshop. Learned how to query databases, didn’t learn how to create new ones.
 Operators: select (columns), from (table_name), where (condition), group by (column), having (condition), order by (column), limit (number).
@@ -950,33 +929,29 @@ Operators: =, !=, % (like), ilike (case insensitive), ~ (matches regular express
 
 Join.
 
-Wednesday, March 16th, 2016
-
-Recursion on strings + Palindrome.
-
 Monday, March 14th, 2016
 
 Quora: a senior programmer can work with an ill formed task.
-L5 (it’s a shame I’m still on L5!): Fibonacci numbers - code (and his rabbit background); palindrome. Both are solved recursively.
+L5: Fibonacci numbers - code (and his rabbit breeding background); palindrome. Both are solved recursively.
 
-Thursday, March 10th, 2016
+*Thursday, March 10th, 2016*
 
 Talked with Tigran. Asked why there were so few junior developer jobs. He said the listings that are “not senior” and don’t ask for many years of experience could be junior roles. Junior developers are not expected to have experience - only education (and maybe internships).Said his company once had a problem having too many inexperienced junior developers at once; they wrote poor code. His lead developer spends hours with junior devs discussing different ways to solve a problem, etc.
 
-Tuesday, March 8th, 2016
+*Tuesday, March 8th, 2016*
 
 L5, Problem 5 - recursive function to find the greatest common divisor using Euclid’s formula. 
-The Towers of Hanoi recursive algorithm.
+The Towers of Hanoi recursive algorithm. So beautiful - made me cry.
 
-Monday, March 7th, 2016
+*Monday, March 7th, 2016*
 
 Enrolled in SQL workshop on March 20th.
 
-Sunday, March 6th, 2016
+*Sunday, March 6th, 2016*
 
 From Quora: Programmers don’t write code for 8 hours a day, but rather 1-3 hours. The rest of the time is spent thinking, meeting, designing, solving, debugging. 
 
-Another advice from Quora (how do self-taught programmers actually get jobs?): find a mentor. Highly focused (= immersive) education is effective. Other options: start with freelancing (charge the same as the lowest bidders; then $30/h, then there will be a long-term client). Apprenticeships. Find a technical recruiter. Find a small company to start with to get more personal interviews (startup meetups). Portfolio. An open source project (may start by writing documentation, then bug hunting/fixing, then maintaining). A long term personal project. A website or API with custom coding (accessing a remote API - this API could be github, flickr, Facebook, etc.-  or using custom database queries; it needs to look good). For mid-level: at least 6 months of commercial experience + unit testing (RSpec for Ruby) + UI testing (Selenium) + Agile + code design + concurrency.
+Another advice from Quora (how do self-taught programmers actually get jobs?): find a mentor. Highly focused (= immersive) education is effective. Other options: start with freelancing (charge the same as the lowest bidders; then $30/h, then there will be a long-term client). Apprenticeships. Find a technical recruiter. Find a small company to start with to get more personal interviews (startup meetups). Portfolio. An open source project (may start by writing documentation, then bug hunting/fixing, then maintaining). A long term personal project. A website or API with custom coding (accessing a remote API - this API could be github, flickr, Facebook, etc.-  or using custom database queries; it has to look good). For mid-level: at least 6 months of commercial experience + unit testing (RSpec for Ruby) + UI testing (Selenium) + Agile + code design + concurrency.
 
 “Not having a CS degree is only a problem in the first few years of career.”
 
@@ -986,69 +961,59 @@ Readable code! Clarity of structure and naming!
 
 Make it a habit to go on GitHub and explore projects every day!
 
-Thursday, March 3rd, 2016
+*Thursday, March 3rd, 2016*
 
 The weird function works because of mathematical induction.
 Difference between iteration and recursion.
 Solved Problem 2, 3. Was solving # 4 for over an hour, but forgot about the min function. Went to see the solution in comments.
 
-Monday, February 29th, 2016
+*Monday, February 29th, 2016*
 
 L5. Solved problem 1. Recursion step and base case. Weird function referencing itself that works for some reason.
 
-Sunday, February 28th, 2016
+*Sunday, February 28th, 2016*
 
 Cyclomatic complexity and control flow graph.
 Pset 1, problem 1: counting vowels in a user generated string - solved. 
 
 Was surprised how many ways to solve a problem that are not working I already know!
 
-Thursday, February 25th, 2016
+*Thursday, February 25th, 2016*
 
 Quora: experienced programmers use less “if” statements.
 Cargo cult programming - when inexperienced programmers use things they do not completely understand.
 
-Wednesday, February 24th, 2016
-
-edX 6.00’s final deadlines are 3 weeks from now. It is currently a week 5 in the course; I only started a week 3 - am falling behind. Won’t be able to get a certificate, but will be able to complete all lectures and assignments - they are not taken away after the end of the course. 
-
-Decided against going to JavaScript workshop - too tired.
-
-Tuesday, February 23rd, 2016
+*Tuesday, February 23rd, 2016*
 
 Solved L4 problems 8-11. 
-Was looking for an in operator in documentation. Encountered a piece of code for creating Fibonacci numbers. Couldn’t understand why it does what it does for 40 minutes. Finally got it - made me understand how assignment works much better.
+Was looking for an in operator in documentation. Encountered a piece of code for creating Fibonacci numbers. Couldn’t understand why it does what it does for 40 minutes. Finally got it.
 
 Problem L12 - string methods: index, find, capitalize, lower, islower, etc. The difference between index and find methods. 
 
-Monday, February 21st, 2016
-
-Watched a piece of L4.
-
-Saturday, February 20th, 2016
+*Saturday, February 20th, 2016*
 
 Functions within functions: order of execution, stack frames. Understood but when they kept over-explaining, un-understood. 
 
 Watched Recitation # 2 - covered for loop, while loop, range, tuples (were not covered in lectures).
 
-Friday, February 19th, 2016
+*Friday, February 19th, 2016*
 
 Stack Exchange has a sub-site for code review. 
 
 Advice for a programming blog from somewhere: list 1 thing you learned a day.
 
-Did exercises for L4 (functions). Got confused with times when values from global environments are used vs. local environment (both can happen at once in an irrational manner). Went to YouTube to watch the same lecture done by the old professor. His presentation was much better. 
+Did exercises for L4 (functions). Got confused with times when values from global environments are used vs. local environment (both can happen at once in an irrational manner). Went to YouTube to watch the same lecture done by the old professor. His presentation was better. 
 
-Thursday, February 18th, 2016
+*Thursday, February 18th, 2016*
 
 Met with Jury and went to a VR event at Google. Jury said it is best to learn from more experienced programmers (rather than courses, etc.). Asked him why they might be interested to work with me/teach me. He said 1. because you will do simpler, repetitive boring things for them 2. older programmers have parental instinct and like to pass on their knowledge.
 
-Wednesday, February 17th, 2016
+*Wednesday, February 17th, 2016*
 
 Continued L4 about functions - environment, etc.
 Watched a tech interview with a problem of airplanes’ queue (was solved in Python).
 
-Tuesday, February 16th, 2016
+*Tuesday, February 16th, 2016*
 
 Realized I didn’t know the English names of many most basic math things (knew them only in Russian), like polynomials. While reading learned about imaginary numbers (i).
  i2 = −1
@@ -1068,7 +1033,7 @@ recall
 
 If there is no recall, it will run through all the expressions.
 
-Friday, February 12th, 2016
+*Friday, February 12th, 2016*
 
 “Secret number” excercise (MIT, edX, Python). Couldn’t make it work - the program was supposed to ask each question once, but mine was asking the same question numerous times. After 2-3 hours looked at the solution. It was similar to mine, but had a few lines I didn’t understand. 
 
@@ -1079,9 +1044,9 @@ while not guessed:
  if user_ans == 'c':
 guessed = True
 
-Replaced “while not guessed” with “while guessed = True” - didn’t work. Why?
+Replaced “while not guessed” with “while guessed = True” - didn’t work. 
 
-Thursday, February 11th, 2016
+*Thursday, February 11th, 2016*
 
 Went to JVS’ Starting a Career in Tech lecture/workshop. Sameer from Digital Strategies was presenting. 
 
@@ -1101,10 +1066,13 @@ Resume + Online Presence. Use keywords from the job description. If it is your d
 Tools, Processes. Kiss Metrics and Tableau are replacing SQL. 
 Educational Background. Huge number of programmers are self-taught. Familiarity with the business is more important than knowing particular tools. HTML & CSS, SQL, API, Unix, security - must know for almost everyone. Bootcamps are expensive, they will find you a job, but you must know first that this industry is what you want.
 
-Sunday, February 7th, 2016
+*Sunday, February 7th, 2016*
 
 Girl Develop It 2-day HTML & CSS workshop. 
-Day 1. HTML provides structure and semantics.
+
+Day 1. 
+
+HTML provides structure and semantics.
 Works regardless of indentation! 2 spaces is a good practice.
 <!DOCTYPE html> must be on top of every page.
 The head contains metadata about the page, the body - actual content.
@@ -1113,11 +1081,13 @@ Lists, formatted text (em, strong), images, links, embedding (iframe), tables, d
 Sublime Editor looks pretty.
 Not having a 5-minute break for hours is murder.
 
-Saturday, February 6th, 2016
+*Saturday, February 6th, 2016*
 
 Workshop, day 2.
+
 CSS - Cascading Style Sheets.
-Consists of style rules. Rules consist of “selectors” and “declarations.”
+
+Consist of style rules. Rules consist of “selectors” and “declarations.”
 Goes into head. <style> bla bla </style>
 Types of selectors: 1. element 2. ID 3. class 4. position in document
 Color systems: HEX, RGB
@@ -1133,16 +1103,16 @@ Elements, types: inline and block.
 The Box Model (all elements are treated as boxes by the browser): margin, border, padding, z-index
 Page layouts - use FluxBox and/or Bootstrap.
 
-Friday, February 5th, 2016
+*Friday, February 5th, 2016*
 
 Read an article saying there are people that cannot be taught how to program, no matter the approach. The concepts that are the most hard to grasp are:
 assignment and sequence
 recursion / iteration
 concurrency
 
- Cache, URL, RESTful applications - scratched the surface.
+Cache, URL, RESTful applications - scratched the surface.
 
-Wednesday, February 3rd, 2016
+*Wednesday, February 3rd, 2016*
 
 Apple - $460,772 in profits per employee
 21st Century Fox - $277,344
@@ -1150,67 +1120,70 @@ Google - $270,123
 Facebook at $236,705
 Facebook has about 8,500 developers
 
-Tuesday, February 2nd, 2016
+*Tuesday, February 2nd, 2016*
 
 Went to whiteboard interview practice meetup at Chartboost. Talked with Ryan, head of talent. He said:
-networking is very important; those who have connections in the company will be considered first
-for changing careers from screenwriting / copywriting to programming it makes sense to apply at media / film / etc. companies.
-re.resume. Don’t have to remove all non-related experience completely. May let it occupy bottom 25-30% of the resume
-they hired 3 people out of bootcamps in the last few years
-consider internships; they are not only for students and are well-paid. Each such position has 300 people applying over the course of 2 months.
-have portfolio: open source projects, etc.
-the first programming job will be the most hard, then things will get much easier.
+
+"Networking is very important; those who have connections in the company will be considered first.
+For changing careers from screenwriting / copywriting to programming it makes sense to apply to media / film / etc. companies.
+Re.resume. Don’t have to remove all non-related experience completely. May let it occupy bottom 25-30% of the resume
+They hired 3 people out of bootcamps in the last few years
+consider internships; they are not only for students and are well-paid. Each such position had 300 people applying over the course of 2 months.
+Should have a portfolio: open source projects, etc.
+The first programming job will be the most hard, then things will get much easier."
+
 Another guy, Prawaal, said:
-if you already have a BA or MA, then a bootcamp or a QA position may be a good start
-big companies (he has worked for Oracle and Symantec) don’t hire from bootcamps but rather from colleges, esp. in Southern CA
-question often asked at QA interviews: how would you test this (most common - a vending machine)?
-even a senior engineer starts providing value only after about 3 months on the job
+"If you already have a BA or MA, then a bootcamp or a QA position may be a good start
+Big companies (he worked for Oracle and Symantec) don’t hire from bootcamps but rather from colleges, esp. in Southern CA
+Question often asked at QA interviews: how would you test this (most common - a vending machine)?
+Even a senior engineer starts providing value only after about 3 months on the job."
+
 2 eggs, 100 floors. Suggested going at a certain step, like 3 or 4. Prawaal said bisection search only. But his version will take more steps!
 
 Veronica: was teaching herself Java for almost a year but is not familiar with neither pseudo code nor decision trees.
 
-Monday, February 1st, 2016
+*Monday, February 1st, 2016*
 
 Stack, linked list, skip list.
 
-Sunday, January 31st, 2016
+*Sunday, January 31st, 2016*
 
 More exercises - while True creating an infinite loop, for loop inside of the while loop, etc. Got most of them wrong.
 Zipfian Academy teaches data science (12 week course), but previous knowledge of mathematics/statistics is needed. Apprentice program for intermediate developers at thoughtbot.
 
-Saturday, January 30th, 2016
+*Saturday, January 30th, 2016*
 
 Karrigell - Python web framework. Another way is to insert Python code into HTML using <% %>
 Enrolled in Saturday/Sunday HTML/CSS workshop.
 
-Friday, January 29th, 2016
+*Friday, January 29th, 2016*
 
 Watched a TED on data visualization (context is important, # US military budget: absolute values vs. soldiers per capita or spending compared to GDP, etc.). Python’s keywords and built-in functions. Continued lecture 3’s homework: for loops, ranges, check and guess algorithm.
 
-Thursday, January 28th, 2016
+*Thursday, January 28th, 2016*
 
 Heard of trading algorithms for the first time (Stealth analogy). Heap sort algorithm.
 
-Monday, January 25th, 2016
+*Monday, January 25th, 2016*
 
 Found Python syntax cheat sheets and Big O cheat sheets.
 Finished lecture 2 + homework. Wrote many simple branching programs + FizzBuzz.
 
-Sunday, January 24th, 2016
+*Sunday, January 24th, 2016*
 
 6.00.1x course: half lecture 2 + homework, functions (half lect.4) + homework. Started with lecture 4 because of the assignment deadline (watched lect 1-3 in the past). Couldn’t do the assignment, went back to the previous lectures. Homework for lecture 2 was easy.
 
-Saturday, January 23rd, 2016
+*Saturday, January 23rd, 2016*
 
-Bus (in comp. architecture). Transatlantic cable. Parser (analyzes syntax? structures it?).
+Bus (in comp. architecture). Transatlantic cable. Parser.
 String operations in Python.
 Watched (pausing to think/Google) lecture 1 of MIT-edX 6.00.1x course.
 
-Thursday, January 21st, 2016
+*Thursday, January 21st, 2016*
 
 Grant advised to create simple programs (the one that backs up all the files once a week, for instance). Said he creates a calculator and/or a spirograph in any new language he learns. Google and search for a solution till one is found.
 
-Wednesday, January 20th, 2016
+*Wednesday, January 20th, 2016*
 
 Canopy’s documentation, used for the first time.
 Data validation - finally understood what it means.
@@ -1222,13 +1195,13 @@ code reviews Do save time in the end but they are upfront costs.
 
 Comments to code should address the “why” (it is necessary, this approach is taken, etc.) rather than “what” (it is doing) + provide assumptions + a business context + comment the unexpected + workarounds for bugs.
 
-Monday, January 18th, 2016
+*Monday, January 18th, 2016*
 
 Started MIT 6.01 course via edX. Installed Canopy (Python 2.7, editor, libraries).
 
-If an infinite loop occured, press Ctrl + or restart the Kernel or restart Canopy.
+If an infinite loop occurres, press Ctrl + or restart the Kernel or restart Canopy.
 
-Saturday, January 16th, 2016
+*Saturday, January 16th, 2016*
 
 Asked Dima about the amount of skills that’s good enough to apply for a job. He said understanding of data modeling was very important + to google interview questions for a particular language.
 
@@ -1236,12 +1209,12 @@ Data modeling: conceptual, logical, physical.
 4 data modeling types (Barker is the most popular).
 Data mod. steps (entities, relationships, attributes, normalize, denormalize, etc.)
 
-Friday, January 15th, 2016
+*Friday, January 15th, 2016*
 
 Joined more programming meetups. 
 RSVP'd for data science on Jan 29 and mock whiteboard interviews on Feb 2nd. 
 
-Thursday, January 14th, 2016
+*Thursday, January 14th, 2016*
 
 Learned that internships are usually for college students.
 Indeed job postings: Python = big data + SQL/Cassandra/MongoDB
@@ -1250,7 +1223,7 @@ SQL: blobs.
 Read about lambda function and how multiple languages coexist in one program.
 Created an Outfit App zdoc with a few excerpts of what is needed.
 
-Wednesday, January 13th, 2016
+*Wednesday, January 13th, 2016*
 
 Different approaches to teaching/learning programming. 
 An article about confidence vs. competence. Intro courses help students build simple apps, students get excited. But can’t build their own apps; debug but don’t understand what is happening.
@@ -1260,13 +1233,13 @@ Instead of teaching syntax and building a predetermined app, start with a real p
 
 Advice: focus on learning each thing “just enough” to achieve your goals.
 
-Tuesday, January 12th, 2016
+*Tuesday, January 12th, 2016*
 
 Translators (compilers, decompilers, assemblers, etc.)
 Source code, bytecode, virtual machine (i.e. interpreter?)
 Charles Babbage, Ada Lovelace, Analytical Engine (Babbage created, Ada wrote the first algorithm).
 
-Monday, January 11th, 2016
+*Monday, January 11th, 2016*
 
 Gained superficial understanding of UNIX vs. Linux vs. POSIX vs. BSD 
 Updated the Table of Skills.
@@ -1274,33 +1247,32 @@ Made a profile on Git (BreadCircuses).
 Updated the list of questions to ask programmers next time I meet some of them (hash, hardware, assignment statement, operating system, portfolio questions).
 Started reading about Rails and why it is used.
 
-Sunday, January 10th, 2016
+*Sunday, January 10th, 2016*
 
 Functional programming article (main difference - there is no assignment)
 Mutable objects, kernel, destructive assignment, copying, etc.
-Started to understand the essence of CS articles on Wiki (2 months ago could understand only 3% but forced myself to keep reading).
 
-Friday, January 8th, 2016
+*Friday, January 8th, 2016*
 
 RubyMonk: Arrays (delete, iterate, etc.) + documentation.
 
-Wednesday, January 6th, 2016
+*Tuesday, December 29, 2015*
 
-First steps in learning to program. 
+First steps in learning to program: consuming Wikipedia articles on different languages, paradigms, farameworks, etc., like a vacuum cleaner. Start understanding more than 3% of what they talk about.
 
-1991-1995
+*1991-1995*
 
 The Soviet Union collapses. 
 
 Kate’s main problem: wants to play chess better than Dad.
 
-1987-1990
+*1987-1990*
 
-Dad writes a PhD. 
+Dad is writing a PhD. 
 
 Kate dismembers dolls and plays with used punch cards trying to find patterns in missing numbers. Created a theory: numbers “2” and “3” have irreconcilable differences and are at war with one another, but their power is almost equal and neither can win. When numbers like “23,323” and “32,223” fight, things get even more complicated. Broke more dolls.
 
-1983
+*1983*
 
 Mom and Dad write algorithms to predict the trajectories of flying objects in space. They are assigned programmers who write actual code for them in Fortran. Dad learns Fortran too so he can better understand what is happening. Mom doesn’t like her job because it is  too theoretical - “you never see the actual fruits of your labor.”
 
