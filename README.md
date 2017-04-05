@@ -2,6 +2,39 @@
 
 ## Observations on learning to program
 
+*Tuesday, April 4th*
+
+From **The Master Algorithm**:
+
+“Science goes through three phases, which we can call the Brahe, Kepler, and Newton phases. 
+In the Brahe phase, we gather lots of data, like Tycho Brahe patiently recording the positions of the planets night after night, year after year. In the Kepler phase, we fit empirical laws to the data, like Kepler did to the planets’ motions. In the Newton phase, we discover the deeper truths. Most science consists of Brahe- and Kepler-like work; Newton moments are rare. Today, big data does the work of billions of Brahes, and machine learning the work of millions of Keplers.”
+
+*Monday, April 3rd*
+
+From **The Master Algorithm**:
+
+“The Industrial Revolution automated manual work and the Information Revolution did the same for mental work, but machine learning automates automation itself [...] If you’re a lazy and not-too-bright computer scientist, machine learning is the ideal occupation, because learning algorithms do all the work but let you take all the credit. On the other hand, learning algorithms could put us out of our jobs, which would only be poetic justice.”
+
+“Machine learning is the scientific method on steroids. It follows the same process of generating, testing, and discarding or refining hypotheses. But while a scientist may spend his or her whole life coming up with and testing a few hundred hypotheses, a machine-learning system can do the same in a fraction of a second. Machine learning automates discovery. It’s no surprise, then, that it’s revolutionizing science as much as it’s revolutionizing business.”
+
+*Sunday, April 2nd*
+
+From **The Master Algorithm**:
+
+“[A]s of today people can write many programs that computers can’t learn. But, more surprisingly, computers can learn programs that people can’t write. We know how to drive cars and decipher handwriting, but these skills are subconscious; we’re not able to explain to a computer how to do these things. If we give a learner a sufficient number of examples of each, however, it will happily gure out how to do them on its own, at which point we can turn it loose. at’s how the post office reads zip codes, and that’s why self-driving cars are on the way.”
+
+“In farming, we plant the seeds, make sure they have enough water and nutrients, and reap the grown crops. Why can’t technology be more like this? It can, and that’s the promise of machine learning. Learning algorithms are the seeds, data is the soil, and the learned programs are the grown plants. A machine-learning expert is like a farmer, sowing the seeds, irrigating and fertilizing the soil, and keeping an eye on the health of the crop but otherwise staying out of the way.”
+
+“The goal of AI is to teach computers to do what humans currently do better, and learning is arguably the most important of those things: without it, no computer can keep up with a human for long; with it, the rest follows.”
+
+*Saturday, April 1st*
+
+From **The Master Algorithm**: There are 5 main schools of thought in relation to machine learning
+
+“Symbolists view learning as the inverse of deduction and take ideas from philosophy, psychology, and logic. Connectionists reverse engineer the brain and are inspired by neuroscience and physics. Evolutionaries simulate evolution on the computer and draw on genetics and evolutionary biology. Bayesians believe learning is a form of probabilistic inference and have their roots in statistics. Analogizers learn by extrapolating from similarity judgments and are influenced by psychology and mathematical optimization.”
+
+“Thee symbolists’ master algorithm is inverse deduction, the connectionists’ is backpropagation, the evolutionaries’ is genetic programming, the Bayesians’ is Bayesian inference, and the analogizers’ is the support vector machine. In practice, however, each of these algorithms is good for some things but not others. What we really want is a single algorithm combining the key features of all of them: the ultimate master algorithm. ”
+
 *Wednesday, March 28th, 2017*
 
 Should one learn Hadoop first to be able to learn Spark?
