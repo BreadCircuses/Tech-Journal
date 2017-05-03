@@ -2,6 +2,10 @@
 
 ## Observations on learning to program
 
+*Wednesday, May 3rd*
+
+Just after it started taking me less than 30 minutes of reading about my Git Shell errors on Stack Overflow, I found that GitHub allows to drag and drop code directly from one's computer and into the master branch. Have mixed feelings!
+
 *Tuesday, April 4th*
 
 From **The Master Algorithm**:
