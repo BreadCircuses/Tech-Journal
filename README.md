@@ -2,9 +2,29 @@
 
 ## Observations on learning to program
 
+*Tuesday, September 12th*
+
+Notes from the API workshop:
+
+Parts of an API call
+
+| PART             | EXAMPLE                   |   
+------------------ | ------------------------- |
+| base URL         | http:/api.something.com   |
+| version          | /v4/                      |
+| resource/endpoint| words.json                |
+| method           | randomWord                |
+| quiery params    | ?includePartOfSpeech=noun |
+| auth             | &api_key=123key           | 
+
+
+Persisted model = gets saved in the database
+
+
+
 *Wednesday, May 3rd*
 
-Just after it started taking me less than 30 minutes of reading about my Git Shell errors on Stack Overflow, I found that GitHub allows to drag and drop code directly from one's computer and into the master branch. Have mixed feelings!
+Just after it started taking me less than 20 minutes of reading about my Git Shell errors on Stack Overflow, I found that GitHub allows to drag and drop the code directly from one's computer into the master branch. Have mixed feelings...
 
 *Tuesday, April 4th*
 
