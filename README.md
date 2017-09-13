@@ -20,6 +20,10 @@ Parts of an API call
 
 Persisted model = gets saved in the database
 
+*Sunday, August 27th*
+
+Found a cute Android app on Google Play: Algorithms: Explained and Animated. Very nice.
+
 *Wednesday, May 3rd*
 
 Just after it started taking me less than 20 minutes of reading about my Git Shell errors on Stack Overflow, I found that GitHub allows to drag and drop the code directly from one's computer into the master branch. Have mixed feelings...
