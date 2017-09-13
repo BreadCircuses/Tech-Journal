@@ -22,7 +22,7 @@ Persisted model = gets saved in the database
 
 *Sunday, August 27th*
 
-Found a cute Android app on Google Play: Algorithms: Explained and Animated. Very nice.
+Found a cute Android app on Google Play: Algorithms: Explained and Animated. Simple and nice.
 
 *Wednesday, May 3rd*
 
@@ -33,6 +33,7 @@ Just after it started taking me less than 20 minutes of reading about my Git She
 From **The Master Algorithm**:
 
 “Science goes through three phases, which we can call the Brahe, Kepler, and Newton phases. 
+
 In the Brahe phase, we gather lots of data, like Tycho Brahe patiently recording the positions of the planets night after night, year after year. In the Kepler phase, we fit empirical laws to the data, like Kepler did to the planets’ motions. In the Newton phase, we discover the deeper truths. Most science consists of Brahe- and Kepler-like work; Newton moments are rare. Today, big data does the work of billions of Brahes, and machine learning the work of millions of Keplers.”
 
 *Monday, April 3rd*
@@ -147,7 +148,7 @@ for row in five_elements:
 
 *Monday, February 13th, 2017*
 
-Nice quote from Quora re: data scientists. They “serve as the ambassador between the data and the company.”
+A nice quote from Quora re: data scientists. They “serve as the ambassador between the data and the company.”
 
 How data scientists use statistics:
 https://www.quora.com/How-do-data-scientists-use-statistics
