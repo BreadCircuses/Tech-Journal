@@ -20,8 +20,6 @@ Parts of an API call
 
 Persisted model = gets saved in the database
 
-
-
 *Wednesday, May 3rd*
 
 Just after it started taking me less than 20 minutes of reading about my Git Shell errors on Stack Overflow, I found that GitHub allows to drag and drop the code directly from one's computer into the master branch. Have mixed feelings...
@@ -71,7 +69,7 @@ http://aptuz.com/blog/is-apache-spark-going-to-replace-hadoop/
 Should remember: 
 
 all() means all the values iterated over are non-False;
-any() means any (any number) are non-False
+any() means any (any number) is non-False
 
 *Tuesday, March 21st, 2017*
 
@@ -95,7 +93,7 @@ Saw %d and %s in someone’s SQL code. Thought they mean “anything ending with
 
 *Monday, February 27th, 2017*
 
-Re.Bayesian methods:
+Re: Bayesian methods.
 
 “[P]rior usage is a very easy way to deal with proportions data. This is an easy way to deal with things like upvote data, click-through rates, conversion rates, when making decisions regarding ad campaigns, item prioritization, or similarity metrics. The priors here help make sure that things don't get too extreme when there's too little data.”
 
@@ -133,7 +131,7 @@ Query - Reconnect to Server
 *Tuesday, February 14th, 2017*
 
 To iterate in a list of lists
-use a variable that is a list itself!
+use a variable that is a list itself! Nice.
 crime_rates = []
 
 for row in five_elements:
@@ -143,13 +141,11 @@ for row in five_elements:
     # crime_rate is a string, the crime rate of the city
     crime_rates.append(crime_rate)
 
-This is fascinating, kind of!
-
 *Monday, February 13th, 2017*
 
-Nice quote from Quora re. Data scientists: they “serve as the ambassador between the data and the company.”
+Nice quote from Quora re: data scientists. They “serve as the ambassador between the data and the company.”
 
-How do Data Scientists use statistics:
+How data scientists use statistics:
 https://www.quora.com/How-do-data-scientists-use-statistics
 
 Started following William Chen’s Storytelling with Statistics feed:
@@ -201,11 +197,11 @@ New idea for an Android game. The game is based heavily on dialogue and may be c
 
 *Monday, February 9, 2017*
 
-Just after I learned the game loop and collision detection turned out tetris is one of the most copyrighted games in existence. 
+Just after I learned the game loop and collision detection, turned out that tetris is one of the most copyrighted games in existence. 
 
 “The first tetris game was made by a Soviet developer in 1984. He hadn’t received any royalties until he moved to the US in 1991 and opened a Tetris Company in 1996. The company “has copyrighted and trademarked every aspect of the game, such as the playfield dimensions, the shapes of the blocks, and the next piece.” 
 
-The Tetris Foundation (the copyright owner) sends copyright infringement notices to Apple store and Google Play store forcing them to remove dozens of tetris-like games every year.
+The Tetris Foundation (the copyright owner) sends copyright infringement notices to App store and Google Play forcing them to remove dozens of tetris-like games every year.
 
 *Tuesday, December 20th, 2016*
 
